@@ -1,2 +1,0 @@
-# testCounter
-Created with CodeSandbox
